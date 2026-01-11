@@ -38,18 +38,7 @@ cd login-system-task2
 ./login-system-task2.exe
 ```
 
-### 3. Sudoku Solver (Task 3)
-A program that solves Sudoku puzzles using backtracking algorithm.
-
-**Location:** `sudoku-solver-task3/`
-
-**Features:**
-- 9x9 Sudoku grid representation
-- Backtracking algorithm to solve the puzzle
-- Validates row, column, and 3x3 subgrid constraints
-- Displays original puzzle and solved solution
-
-### 4. Banking System (Task 4)
+### 3. Banking System (Task 4)
 A basic banking application for managing accounts.
 
 **Location:** `banking-system-task4/`
@@ -90,9 +79,6 @@ codealpha_tasks/
 │   ├── login-system-task2.cpp
 │   ├── login-system-task2.exe
 │   └── users.txt
-├── sudoku-solver-task3/
-│   ├── sudoku-solver-task3.cpp
-│   └── sudoku-solver-task3.exe
 └── banking-system-task4/
     ├── banking-system-task4.cpp
     ├── banking-system-task4.exe
